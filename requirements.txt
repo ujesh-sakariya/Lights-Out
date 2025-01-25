@@ -1,0 +1,4 @@
+autopep8==2.3.1
+pep8==1.7.1
+pillow==11.0.0
+pycodestyle==2.12.1

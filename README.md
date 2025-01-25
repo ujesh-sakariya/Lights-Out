@@ -1,2 +1,3 @@
-# Lights-Out
-Lights Out is a Tkinter based game that I created for my final coursework project for my Intro to Programming module for which I recieved a First-class grade. 
+# COMP16321-Labs
+
+This is the repository that you submit your labs to.
